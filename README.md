@@ -1,7 +1,7 @@
 # dissertation-bioinformatics-machine-learning
 Collection of materials from my dissertation research.
 
-"Investigating Multidrug Resistance in Escherichia coli with Phylogenetics and Machine Learning".
+"Investigating Multidrug Resistance in Escherichia coli with Phylogenetics and Machine Learning"
 
 -----
 -----
