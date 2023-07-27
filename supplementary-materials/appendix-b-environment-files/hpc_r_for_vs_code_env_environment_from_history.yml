@@ -1,0 +1,18 @@
+name: hpc_r_for_vs_code_env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - r-httpgd
+  - r-dplyr
+  - python=3.10
+  - r-phytools
+  - feather-format
+  - r-feather
+  - r-base
+  - radian
+  - r-ape
+  - r-languageserver
+prefix: /users/dbrow208/.conda/envs/hpc_r_for_vs_code_env

@@ -1,0 +1,15 @@
+name: checkm
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - python=3.9
+  - numpy
+  - matplotlib
+  - pysam
+  - prodigal
+  - pplacer
+  - hmmer
+prefix: /users/dbrow208/.conda/envs/checkm

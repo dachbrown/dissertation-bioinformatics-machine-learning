@@ -1,0 +1,10 @@
+name: hpc_gotree
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - python=3
+  - gotree
+prefix: /users/dbrow208/.conda/envs/hpc_gotree

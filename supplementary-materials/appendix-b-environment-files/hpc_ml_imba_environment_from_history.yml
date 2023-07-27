@@ -1,0 +1,14 @@
+name: hpc_ml_imba
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - python=3
+  - imbalanced-learn
+  - feather-format
+  - pandas
+  - matplotlib
+  - seaborn
+prefix: /users/dbrow208/.conda/envs/hpc_ml_imba
