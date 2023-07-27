@@ -1,16 +1,9 @@
 # dissertation-bioinformatics-machine-learning
 Collection of materials from my dissertation research.
 
-"Investigating Multidrug Resistance in Escherichia coli with Phylogenetics and Machine Learning"
-
------
------
-
 README
 
-by David C. Brown - 20230727
-
-This repository contains documents, presentations, and visualizations created for or derived from my dissertation research process. Committee members included:  
+This repository contains supplementary materials, presentations, and visualizations created for or derived from my dissertation research process. Committee members included:  
   - Dr. Daniel Janies - CHAIR (djanies@charlotte.edu)
   - Dr. Jun-tao Guo (jguo4@charlotte.edu)
   - Dr. Alex Dornburg (adornbur@charlotte.edu)
@@ -25,7 +18,10 @@ Many thanks to all who have helped me in my journey.
 -----
 -----
 
-Dissertation Citation:
+"Investigating Multidrug Resistance in Escherichia coli with Phylogenetics and Machine Learning"
+by David C. Brown, PhD
+
+Citation:
 
 @phdthesis{  
 author={Brown,David C.},  
