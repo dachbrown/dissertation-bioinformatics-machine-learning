@@ -8,16 +8,15 @@ README
 
 by David C. Brown - 20230727
 
-This repository contains documents, presentations, and visualizations created for or derived from my dissertation research process.  
-Committee members included:  
+This repository contains documents, presentations, and visualizations created for or derived from my dissertation research process. Committee members included:  
   - Dr. Daniel Janies - CHAIR (djanies@charlotte.edu)
   - Dr. Jun-tao Guo (jguo4@charlotte.edu)
   - Dr. Alex Dornburg (adornbur@charlotte.edu)
   - Dr. Adam Reitzel (adam.reitzel@charlotte.edu)
 
-Department of Bioinformatics and Genomics (BiG)
-College of Computing and Informatics (CCI)
-University of North Carolina at Charlotte
+Department of Bioinformatics and Genomics (BiG)  
+College of Computing and Informatics (CCI)  
+University of North Carolina at Charlotte  
 
 Many thanks to all who have helped me in my journey.
 
