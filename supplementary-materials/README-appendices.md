@@ -1,3 +1,9 @@
+README
+
+"Investigating Multidrug Resistance in Escherichia coli with Phylogenetics and Machine Learning" by David C. Brown, PhD
+
+Contains descriptions for each of the appendices from the dissertation.
+
 APPENDIX A: HARDWARE SPECIFICATIONS
 
 Code development and testing took place on a desktop iMac (27-inch, Late 2012) provided by the UNC
