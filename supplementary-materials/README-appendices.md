@@ -2,6 +2,7 @@ APPENDIX A: HARDWARE SPECIFICATIONS
 
 Code development and testing took place on a desktop iMac (27-inch, Late 2012) provided by the UNC
 Charlotte Department of Bioinformatics and Genomics.
+
   – Processor: 2.9 GHz Quad-Core Intel Core i5
   – Memory: 16 GB 1600 MHz DDR3  
 
